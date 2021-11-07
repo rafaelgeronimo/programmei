@@ -74,5 +74,5 @@ Mais informações nos respectivos repositórios listados abaixo.
 ## Iniciando
 Para informações detalhadas de como configurar o projeto para executar localmente, acesse os respectivos repositório preparados para cada um dos meios:
 
-### - [Backend](https://github.com/rafaelgeronimo/today-backend)
-### - [Frontend](https://github.com/rafaelgeronimo/today-frontend)
+### - [Today Backend](https://github.com/rafaelgeronimo/today-backend)
+### - [Today Frontend](https://github.com/rafaelgeronimo/today-frontend)
