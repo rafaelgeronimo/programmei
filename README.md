@@ -1,8 +1,8 @@
 Esse repositório não contém código. Aqui estão reunidos os principais fatos sobre o desafio proposto. Em breve, detalhes sobre o desenvolvimento.
 Para acesso aos códigos, visite os repositórios:
 
-- [Backend](https://github.com/rafaelgeronimo/today-backend)
-- [Frontend](https://github.com/rafaelgeronimo/today-frontend)
+- [Today Backend](https://github.com/rafaelgeronimo/today-backend)
+- [Today Frontend](https://github.com/rafaelgeronimo/today-frontend)
 
 ## Sobre
 Desafio técnico proposto pela [Trybe](https://www.betrybe.com/), simulando um teste solicitado pela empresa fictícia **Ebytr**.
